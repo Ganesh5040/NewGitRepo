@@ -24,3 +24,7 @@
 2021-09-06 15:42:42,317 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New_workspase\C_S_S\src\main\resources
 2021-09-06 15:42:42,319 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-06 15:42:42,320 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New_workspase\C_S_S\src\test\resources
+2021-09-06 17:06:41,634 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-06 17:06:41,645 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New_workspase\C_S_S\src\main\resources
+2021-09-06 17:06:41,648 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-06 17:06:41,649 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New_workspase\C_S_S\src\test\resources
